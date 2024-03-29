@@ -52,7 +52,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
 ### [System Design Interview Template](interview-template.md)
-<img src="diagrams/interview-template.png" width="400" height="250">
+<img src="interview-template.png" width="400" height="250">
 
 
 ## System Design Interview Problems
